@@ -1,4 +1,5 @@
 org\kononikhin\config\DemoSecurityConfig.class
+org\kononikhin\controller\LoginController.class
 org\kononikhin\config\DemoAppConfig.class
 org\kononikhin\config\MySpringMvcDispatcherServletInitializer.class
 org\kononikhin\controller\MyController.class
