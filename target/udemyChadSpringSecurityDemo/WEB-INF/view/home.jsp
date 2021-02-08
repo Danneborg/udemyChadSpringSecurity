@@ -16,5 +16,8 @@
 
 <h3>Hello from Home page!</h3>
 
+<form:form action="${pageContext.request.contextPath}/logout" method="POST">
+    <input type="submit" value="Logout">
+</form:form>
 </body>
 </html>
